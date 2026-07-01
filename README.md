@@ -38,4 +38,3 @@ A capacidade de integrar fontes de dados distintas (como CRM e Planilhas de Cust
 
 ## Daniel Tavares de França
 Cientista de Dados | Visão Computacional & Machine Learning
-github.com/danieltavares24
